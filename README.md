@@ -3,7 +3,7 @@
 My name is Dejan. I'm a software engineer with more than 8 years of experience. Most of the work I've done is privately-repoed closed-source code, but I also contributed to some of the open source libs.
 
 - 🔭 I’m currently working on a complex full-stack project for a F500 company.
-- 🌱 My preferred tech stack: AWS, Microservice Architecture with Message Brokers (Kafka, SQS), Java, Spring, Typescript, React
+- 🌱 My preferred tech stack: Java, Spring WebFlux, AWS, Microservice Architecture with Kafka as a preferred message broker, TypeScript, React.js.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dejan-nadlacki/) - [Twitter](https://twitter.com/theitdejan) - [Instagram](https://www.instagram.com/nadlacki.d/) - [StackOverflow](https://stackoverflow.com/users/3536991/desomph)
 
